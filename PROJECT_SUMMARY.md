@@ -4,7 +4,7 @@
 
 A complete **Full-Stack Library Management System** with a React frontend and Node.js/Express backend.
 
-## 📁 Project Structure
+## 📁 
 
 ```
 /vercel/sandbox/
